@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dalibor, I have junior knowledge of HTML, CSS, JavaScript, Sass & Tailwind
+- 👋 Hi, I’m Dalibor, I have junior knowledge of HTML, CSS, JavaScript, Sass & Tailwind CSS
 - 🌱 I’m currently learning Bootstrap
 - 📫 Contact: dalibor.desk@gmail.com
 
