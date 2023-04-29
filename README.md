@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dalibor, I have junior knowledge of HTML, CSS, JavaScript, Sass & Tailwind CSS
-- 🌱 I’m currently learning Bootstrap
+- 👋 Hi, I’m Dalibor, I have junior knowledge of HTML, CSS, JavaScript, Bootstrap, SASS & Tailwind CSS
+- 🌱 I’m currently learning React
 - 📫 Contact: dalibor.desk@gmail.com
 
 <p align="center">
